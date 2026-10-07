@@ -1,0 +1,19 @@
+# GUI Framework
+PySide6
+
+# Database Connector
+mysql-connector-python
+
+# Computer Vision & OCR
+ultralytics # For YOLOv8
+easyocr     # Or paddleocr, pytesseract
+
+# PDF Handling
+pdf2image   # Requires poppler installed on system
+# Alternative: pymupdf (fitz)
+
+# Image Processing
+Pillow
+
+# (Optional, for better path handling)
+pathlib
